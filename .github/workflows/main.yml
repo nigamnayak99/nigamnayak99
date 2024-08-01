@@ -10,8 +10,10 @@ on:
     branches:
       - main
   # This command allows us to run the Action automatically from the Actions tab.
-  # Test Commit 
   workflow_dispatch:
+  # Schedule to run every 6 hours
+  schedule:
+    - cron: '0 */6 * * *'
 
 # The sequence of runs in this workflow:
 jobs:
