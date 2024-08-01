@@ -2,7 +2,7 @@
 
 <div style="display: flex; justify-content: center; align-items: center; height: auto; font-weight: bold; text-align: center; padding: 20px;">
     <div style="background: linear-gradient(90deg, #ff77e9, #d15fee, #ffffff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-        <p>Hi There👋</p>
+        <p>Hi There, 👋</p>
         <p>Java Full Stack Developer with 3.5+ years of experience, currently based in Hyderabad. Skilled in building scalable web applications using Java, Spring Boot, and Angular. Committed to delivering impactful and efficient solutions.</p>
     </div>
 </div>
