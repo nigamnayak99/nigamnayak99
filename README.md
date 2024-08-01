@@ -39,7 +39,7 @@
 
 -----
 
-<h3 align="center">Languages And Frameworks</h3>
+<h3>Languages And Frameworks</h3>
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; padding: 20px;">
     <table border="0" style="margin: auto;">
         <tr>
@@ -97,7 +97,7 @@
     </table>
 </div>
 
-<h3 align="center">Databases</h3>
+<h3>Databases</h3>
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; padding: 20px;">
     <table border="0" style="margin: auto;">
         <tr>
@@ -121,7 +121,7 @@
     </table>
 </div>
 
-<h3 align="center">Tools</h3>
+<h3>Tools</h3>
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; padding: 20px;">
     <table border="0" style="margin: auto;">
         <tr>
